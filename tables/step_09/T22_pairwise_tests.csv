@@ -1,0 +1,4 @@
+﻿Регимный вариант,Baseline-best,t-stat,p-value,Значимо (α=0.05)
+VariantA,SVM,1.4246,0.1588,нет
+VariantB,SVM,-1.0,0.3208,нет
+VariantC,SVM,0.7251,0.4708,нет

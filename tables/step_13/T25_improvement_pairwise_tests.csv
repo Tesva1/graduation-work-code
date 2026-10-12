@@ -1,0 +1,12 @@
+﻿best,other,dm_stat,p_value_raw,p_value_holm,significant_holm_5pct
+Blend_softmax_auc,VariantA,0.15941583607753357,0.8733412630707436,1.0,False
+Blend_softmax_auc,VariantC,-1.6813844626597159,0.0926882614923068,0.8341943534307612,False
+Blend_softmax_auc,SVM,-0.884621716838611,0.3763606898246812,1.0,False
+Blend_softmax_auc,VariantA_calibrated,-0.9844064021418059,0.3249157314868061,1.0,False
+Blend_softmax_auc,Blend_optuna,-0.6324421854851985,0.5270979755701943,1.0,False
+Blend_softmax_auc,Stacking_LogReg,-1.8966163966605962,0.057878584943104494,0.6366644343741494,False
+Blend_softmax_auc,FeatureStack_LogReg,-1.744651102383664,0.08104561969189739,0.8104561969189739,False
+Blend_softmax_auc,RegimeSwitch_Hard,-0.924947326953704,0.35499330693584596,1.0,False
+Blend_softmax_auc,RegimeSwitch_Soft,-0.6341022869386874,0.5260140703834839,1.0,False
+Blend_softmax_auc,VariantA_threshold_f1,0.15941583607753357,0.8733412630707436,1.0,False
+Blend_softmax_auc,VariantA_threshold_return,0.15941583607753357,0.8733412630707436,1.0,False

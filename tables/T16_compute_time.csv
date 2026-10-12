@@ -1,0 +1,9 @@
+﻿,Модель,Время (с)
+0,LogisticRegression,2.32
+1,SVM,1.98
+2,RandomForest,121.06
+3,XGBoost,27.3
+4,CatBoost,28.94
+5,LSTM,44.59
+6,TFT,83.37
+7,TabTransformer,90.01

@@ -1,0 +1,49 @@
+﻿,Дата теста,Модель,Гиперпараметры,Optuna trials
+0,2020-02-29,LogisticRegression,{'C': 0.01555019165426488},50
+1,2020-02-29,SVM,"{'C': 3.113312570838209, 'gamma': 'auto'}",50
+2,2020-02-29,RandomForest,"{'n_estimators': 220, 'max_depth': 2, 'min_samples_leaf': 1}",50
+3,2020-02-29,XGBoost,"{'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.02661753488712071, 'subsample': 0.6246026171282114, 'colsample_bytree': 0.8578049645464642}",50
+4,2020-02-29,CatBoost,"{'iterations': 100, 'depth': 2, 'learning_rate': 0.02575455944266488, 'l2_leaf_reg': 1.7548784092955223}",50
+5,2020-02-29,LSTM,"{'hidden_size': 24, 'num_layers': 1, 'lr': 0.0008425396033683949}",8
+6,2020-02-29,TFT,"{'d_model': 24, 'nhead': 2, 'num_layers': 1, 'lr': 0.0006612372870684138}",8
+7,2020-02-29,TabTransformer,"{'d_model': 64, 'nhead': 4, 'num_layers': 1, 'lr': 0.0009639509391403418}",8
+8,2021-02-28,LogisticRegression,{'C': 0.01555019165426488},50
+9,2021-02-28,SVM,"{'C': 2.2325878315025354, 'gamma': 'scale'}",50
+10,2021-02-28,RandomForest,"{'n_estimators': 140, 'max_depth': 2, 'min_samples_leaf': 2}",50
+11,2021-02-28,XGBoost,"{'n_estimators': 140, 'max_depth': 1, 'learning_rate': 0.026509822396419528, 'subsample': 0.8731853849248994, 'colsample_bytree': 0.8100539991744221}",50
+12,2021-02-28,CatBoost,"{'iterations': 60, 'depth': 2, 'learning_rate': 0.018733837259725817, 'l2_leaf_reg': 6.4373439395599155}",50
+13,2021-02-28,LSTM,"{'hidden_size': 24, 'num_layers': 1, 'lr': 0.0028425398939327107}",8
+14,2021-02-28,TFT,"{'d_model': 32, 'nhead': 2, 'num_layers': 1, 'lr': 0.0012142064514998416}",8
+15,2021-02-28,TabTransformer,"{'d_model': 64, 'nhead': 4, 'num_layers': 1, 'lr': 0.0009639509391403418}",8
+16,2022-02-28,LogisticRegression,{'C': 0.01789652452964348},50
+17,2022-02-28,SVM,"{'C': 3.238249369998026, 'gamma': 'auto'}",50
+18,2022-02-28,RandomForest,"{'n_estimators': 100, 'max_depth': 5, 'min_samples_leaf': 2}",50
+19,2022-02-28,XGBoost,"{'n_estimators': 60, 'max_depth': 1, 'learning_rate': 0.012708554998863478, 'subsample': 0.8194220134028827, 'colsample_bytree': 0.664056280297646}",50
+20,2022-02-28,CatBoost,"{'iterations': 140, 'depth': 5, 'learning_rate': 0.010875753273260848, 'l2_leaf_reg': 8.736685218238964}",50
+21,2022-02-28,LSTM,"{'hidden_size': 24, 'num_layers': 1, 'lr': 0.0028425398939327107}",8
+22,2022-02-28,TFT,"{'d_model': 24, 'nhead': 4, 'num_layers': 1, 'lr': 0.0005433947661434235}",8
+23,2022-02-28,TabTransformer,"{'d_model': 64, 'nhead': 2, 'num_layers': 1, 'lr': 0.0012142064514998416}",8
+24,2023-02-28,LogisticRegression,{'C': 19.654240832272045},50
+25,2023-02-28,SVM,"{'C': 1.5115139241230733, 'gamma': 'auto'}",50
+26,2023-02-28,RandomForest,"{'n_estimators': 100, 'max_depth': 4, 'min_samples_leaf': 4}",50
+27,2023-02-28,XGBoost,"{'n_estimators': 140, 'max_depth': 1, 'learning_rate': 0.014034341181617069, 'subsample': 0.9724817873837127, 'colsample_bytree': 0.8062316601512163}",50
+28,2023-02-28,CatBoost,"{'iterations': 60, 'depth': 4, 'learning_rate': 0.0121082698990832, 'l2_leaf_reg': 3.5750564117395647}",50
+29,2023-02-28,LSTM,"{'hidden_size': 24, 'num_layers': 1, 'lr': 0.0028425398939327107}",8
+30,2023-02-28,TFT,"{'d_model': 16, 'nhead': 4, 'num_layers': 1, 'lr': 0.0012802944939350246}",8
+31,2023-02-28,TabTransformer,"{'d_model': 64, 'nhead': 4, 'num_layers': 1, 'lr': 0.0009639509391403418}",8
+32,2024-02-29,LogisticRegression,{'C': 3.3036110315300635},50
+33,2024-02-29,SVM,"{'C': 3.478702825799608, 'gamma': 'auto'}",50
+34,2024-02-29,RandomForest,"{'n_estimators': 180, 'max_depth': 5, 'min_samples_leaf': 4}",50
+35,2024-02-29,XGBoost,"{'n_estimators': 180, 'max_depth': 1, 'learning_rate': 0.012151617026673379, 'subsample': 0.9795542149013333, 'colsample_bytree': 0.9862528132298237}",50
+36,2024-02-29,CatBoost,"{'iterations': 220, 'depth': 4, 'learning_rate': 0.013564999631944371, 'l2_leaf_reg': 7.401501032700079}",50
+37,2024-02-29,LSTM,"{'hidden_size': 24, 'num_layers': 1, 'lr': 0.0012563833593289826}",8
+38,2024-02-29,TFT,"{'d_model': 16, 'nhead': 4, 'num_layers': 1, 'lr': 0.0012802944939350246}",8
+39,2024-02-29,TabTransformer,"{'d_model': 64, 'nhead': 4, 'num_layers': 1, 'lr': 0.0009639509391403418}",8
+40,2025-02-28,LogisticRegression,{'C': 0.040582964167378034},50
+41,2025-02-28,SVM,"{'C': 18.577492023999064, 'gamma': 'auto'}",50
+42,2025-02-28,RandomForest,"{'n_estimators': 60, 'max_depth': 7, 'min_samples_leaf': 1}",50
+43,2025-02-28,XGBoost,"{'n_estimators': 180, 'max_depth': 1, 'learning_rate': 0.12613593092950467, 'subsample': 0.6736391566904716, 'colsample_bytree': 0.7493508951266663}",50
+44,2025-02-28,CatBoost,"{'iterations': 140, 'depth': 3, 'learning_rate': 0.012966955540758744, 'l2_leaf_reg': 4.342403711362617}",50
+45,2025-02-28,LSTM,"{'hidden_size': 16, 'num_layers': 1, 'lr': 0.0009639509391403418}",8
+46,2025-02-28,TFT,"{'d_model': 16, 'nhead': 4, 'num_layers': 1, 'lr': 0.0012802944939350246}",8
+47,2025-02-28,TabTransformer,"{'d_model': 64, 'nhead': 2, 'num_layers': 1, 'lr': 0.0012142064514998416}",8
